@@ -1,0 +1,568 @@
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Manoj_Bajpayee
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Manoj_Bajpayee
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Male
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Manoj_Bajpayee
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Manoj_Bajpayee
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sharib_Hashmi
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sharib_Hashmi
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Male
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sharib_Hashmi
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sharib_Hashmi
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vijay_Vikram_Singh
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vijay_Vikram_Singh
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Male
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vijay_Vikram_Singh
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vijay_Vikram_Singh
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vedant_Sinha
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vedant_Sinha
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Male
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vedant_Sinha
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vedant_Sinha
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Priyamani
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Priyamani
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Female
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Priyamani
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ashlesha_Thakur
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ashlesha_Thakur
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Female
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ashlesha_Thakur
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_1
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sleepers
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Anti-National
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Patriots
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Pariah
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dance_of_Death
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Paradise
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Act_of_War
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Fighting_Dirty
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#The_Bomb
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_2
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Weapon
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Angel_of_Death
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Eagle
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Homecoming
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Martyrs
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Collateral_Damage
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vendetta
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#The_Final_Act
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Action
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Genere
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Action
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Comedy
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Genere
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Comedy
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Drama
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Genere
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Drama
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Raj_NpersonIdimoru_
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krishna_D.K_
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krish_Khatri
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#CostumeDesigner
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krish_Khatri
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Suveera_Ambade
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#CostumeDesigner
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Suveera_Ambade
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Swetesh_Ambade
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#CostumeDesigner
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Swetesh_Ambade
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Shreya_Ghoshal
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Singer
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Shreya_Ghoshal
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Mellow_D
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Singer
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Mellow_D
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ved_Jamsandekar
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Singer
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ved_Jamsandekar
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Kiske_Liye_Tu_Marega
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Banjara
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dega_Jaan
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/2002/07/owl#NamedIndividual
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Raj_NpersonIdimoru_
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krish_Khatri
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Raj_NpersonIdimoru_
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Suveera_Ambade
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Raj_NpersonIdimoru_
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Shreya_Ghoshal
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Raj_NpersonIdimoru_
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ved_Jamsandekar
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Raj_NpersonIdimoru_
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vijay_Vikram_Singh
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Raj_NpersonIdimoru_
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vedant_Sinha
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krishna_D.K_
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Swetesh_Ambade
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krishna_D.K_
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Mellow_D
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krishna_D.K_
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Manoj_Bajpayee
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krishna_D.K_
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sharib_Hashmi
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_1
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sleepers
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_1
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Anti-National
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_1
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Patriots
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_1
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Pariah
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_1
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dance_of_Death
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_1
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Paradise
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_1
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Act_of_War
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_1
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Fighting_Dirty
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_1
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#The_Bomb
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_2
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Weapon
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_2
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Angel_of_Death
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_2
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Eagle
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_2
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Homecoming
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_2
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Martyrs
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_2
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Collateral_Damage
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_2
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vendetta
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_2
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#The_Final_Act
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Shreya_Ghoshal
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#sings
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Kiske_Liye_Tu_Marega
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ved_Jamsandekar
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#sings
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Banjara
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Shreya_Ghoshal
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#sings
+Object: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dega_Jaan
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Manoj_Bajpayee
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 0
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Manoj_Bajpayee
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Manoj Bajpayee
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sharib_Hashmi
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 2
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sharib_Hashmi
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Sharib Hashmi
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vijay_Vikram_Singh
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 100
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vijay_Vikram_Singh
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Vijay Vikram Singh
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vedant_Sinha
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 4
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vedant_Sinha
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Vedant Sinha
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Priyamani
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 1
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Priyamani
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Priyamani
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ashlesha_Thakur
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 3
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ashlesha_Thakur
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Ashlesha Thakur
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sleepers
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Sleepers
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Anti-National
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Anti-National
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Patriots
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Patriots
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Pariah
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Pariah
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dance_of_Death
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Dance of Death
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Paradise
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Paradise
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Act_of_War
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Act of War
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Fighting_Dirty
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Fighting Dirty
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#The_Bomb
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: The Bomb
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Weapon
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Weapon
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Angel_of_Death
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Angel of Death
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Eagle
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Eagle
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Homecoming
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Homecoming
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Martyrs
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Martyrs
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Collateral_Damage
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Collateral Damage
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vendetta
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Vendetta
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#The_Final_Act
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: The Final Act
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Raj_NpersonIdimoru_
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 10
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Raj_NpersonIdimoru_
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Raj NpersonIdimoru 
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krishna_D.K_
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 11
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krishna_D.K_
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Krishna D.K 
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krish_Khatri
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 19
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krish_Khatri
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Krish Khatri
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Suveera_Ambade
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 20
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Suveera_Ambade
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Suveera Ambade
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Swetesh_Ambade
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 21
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Swetesh_Ambade
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Swetesh Ambade
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Shreya_Ghoshal
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 12
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Shreya_Ghoshal
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Shreya Ghoshal
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Mellow_D
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 13
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Mellow_D
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Mellow D
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ved_Jamsandekar
+Predicate: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid
+Object: 14
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ved_Jamsandekar
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Ved Jamsandekar
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Kiske_Liye_Tu_Marega
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Kiske Liye Tu Marega
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Banjara
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Banjara
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dega_Jaan
+Predicate: http://www.w3.org/2000/01/rdf-schema#label
+Object: Dega Jaan
+---------------------------------------------------------------------------------------------

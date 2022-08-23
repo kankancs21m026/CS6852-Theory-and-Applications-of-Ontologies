@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#LeadActress">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actress"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N28babe06fcd244338111539d1780b57f">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:unionOf rdf:nodeID="Nfc61f2b905ba4dd88a4d5a29d59041f5"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1bdba08319a643b6997553531c82a8c7">
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#CostumeDesigner"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Location">
+    <rdfs:comment>Places</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N624a157112c94399b134f10ce3fffa25">
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#AssociateProducer"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na7a839c04f104783a8718bb55c5a385a">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Writer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Genere">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>a particular type or style of TV series</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#CameraCrew">
+    <rdfs:comment>camera crew is responsible for
+setting up and using the
+camera.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb7ad793a96094d04b028677748ac588f">
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vedant_Sinha">
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Male"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</personid>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vedant Sinha</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Editor">
+    <rdfs:comment>Person who puts together the videos as they come in from
+the set</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc0ed02e1ff194222b484d4346a530888">
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#LightCrew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer">
+    <owl:equivalentClass rdf:nodeID="N624a157112c94399b134f10ce3fffa25"/>
+    <owl:equivalentClass rdf:nodeID="N0472f79fcacf444187a342e3ee2ac5cf"/>
+    <owl:equivalentClass rdf:nodeID="Nb7ad793a96094d04b028677748ac588f"/>
+    <owl:equivalentClass rdf:nodeID="Nb0621ab7d5f147a88da9ac342e99c82a"/>
+    <owl:equivalentClass rdf:nodeID="Ncb085760ac6746e69bf4e0decd7fe800"/>
+    <owl:equivalentClass rdf:nodeID="Na7a839c04f104783a8718bb55c5a385a"/>
+    <owl:equivalentClass rdf:nodeID="N9a87613b3a724a1d8e4f69779409c960"/>
+    <owl:equivalentClass rdf:nodeID="N970de4415fef4638a67c4b5c2e6c61c4"/>
+    <owl:equivalentClass rdf:nodeID="N1bdba08319a643b6997553531c82a8c7"/>
+    <owl:equivalentClass rdf:nodeID="Nd8e7630f60234c64af2a57147e43b5ef"/>
+    <owl:equivalentClass rdf:nodeID="N6d7dcad03e894a4a9ea99848c9fc0265"/>
+    <owl:equivalentClass rdf:nodeID="N44389365ff7a4a98804235e76821dd70"/>
+    <owl:equivalentClass rdf:nodeID="Nc0ed02e1ff194222b484d4346a530888"/>
+    <rdfs:comment>Person(s) who aids in the
+development, planning,
+execution, and marketing of a
+feature film</rdfs:comment>
+    <owl:equivalentClass rdf:nodeID="Nedaa4d5a7acc4b72ac3ac948e2bc2f44"/>
+    <owl:equivalentClass rdf:nodeID="Nfb1a3dfb5efb49e7b21145f08db0729d"/>
+    <owl:equivalentClass rdf:nodeID="N8dd02af8d27944c99b4e7927c6b3059c"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <owl:equivalentClass rdf:nodeID="Nef56cd9d9d90492fb66742d9121eeffa"/>
+    <owl:equivalentClass rdf:nodeID="N3eb3567c2b1a4f19b0b01ac3fe6b8929"/>
+    <owl:equivalentClass rdf:nodeID="N6e996a78f02e42feaf0946730e763693"/>
+    <owl:equivalentClass rdf:nodeID="Nd9caa76156f24427aa7befac5be736d9"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:equivalentClass rdf:nodeID="Nde8afbc452564cf184d53f26c94d5e13"/>
+    <owl:equivalentClass rdf:nodeID="N7a5475b39f754bf583e7fc5feec83c83"/>
+    <owl:equivalentClass rdf:nodeID="Nd3d0cd0654484ade8b7268c21d951916"/>
+    <owl:equivalentClass rdf:nodeID="Ne88c04b917f2486a82b04478faaedcd9"/>
+    <owl:equivalentClass rdf:nodeID="Na19a08e3762b42e8919450a69ea38480"/>
+    <owl:equivalentClass rdf:nodeID="Nb7bb1db6447e4beeb3024beec10e25f3"/>
+    <owl:equivalentClass rdf:nodeID="N9a789790bbea4da4bf8af3f4ff7416a4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#edits">
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Song"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#MusicEditor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krishna_D.K_">
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</personid>
+    <hires rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Mellow_D"/>
+    <hires rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Manoj_Bajpayee"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <hires rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sharib_Hashmi"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krishna D.K </rdfs:label>
+    <hires rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Swetesh_Ambade"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Shreya_Ghoshal">
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</personid>
+    <sings rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dega_Jaan"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shreya Ghoshal</rdfs:label>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Singer"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <sings rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Kiske_Liye_Tu_Marega"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#applies">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#MakeupArtist"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Makeup"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sharib_Hashmi">
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Male"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</personid>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sharib Hashmi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfb1a3dfb5efb49e7b21145f08db0729d">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Composer"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb7bb1db6447e4beeb3024beec10e25f3">
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cinematographer"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#reviews">
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Editor"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Camera">
+    <rdfs:comment>A video camera</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires">
+    <rdfs:domain rdf:nodeID="N6efdd713a661495ea8d8a254fe54a0a5"/>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    <rdfs:range rdf:nodeID="Nf4cecb4dccaa4de0a32f9c98c9a96c31"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+    <owl:imports rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd9caa76156f24427aa7befac5be736d9">
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#MusicEditor"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Set">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>A set is artificially constructed scenery used in theatre, film and TV.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#manages">
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Budget"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#designs">
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Clothes"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#CostumeDesigner"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Director">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdfs:comment>A director controls a film's artistic and dramatic aspects and
+visualizes the screenplay (or script) while guiding the crew
+and actors in the fulfilment of that vision.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ashlesha_Thakur">
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ashlesha Thakur</rdfs:label>
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</personid>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Female"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Raj_NpersonIdimoru_">
+    <hires rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ved_Jamsandekar"/>
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</personid>
+    <hires rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vijay_Vikram_Singh"/>
+    <hires rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vedant_Sinha"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <hires rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krish_Khatri"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raj NpersonIdimoru </rdfs:label>
+    <hires rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Suveera_Ambade"/>
+    <hires rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Shreya_Ghoshal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#LightCrew">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdfs:comment>Person who set up, rig,
+program, monitor, repair, and
+operate lighting equipment to
+enhance events and performance</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Lyricist">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>Person who write the lyrics for
+a song</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Writer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Drama">
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Genere"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vijay_Vikram_Singh">
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</personid>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Male"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vijay Vikram Singh</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_1">
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Patriots"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Fighting_Dirty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Anti-National"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#The_Bomb"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Act_of_War"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Pariah"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Paradise"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dance_of_Death"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sleepers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Eagle">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eagle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6e996a78f02e42feaf0946730e763693">
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Choreographer"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6efdd713a661495ea8d8a254fe54a0a5">
+    <owl:unionOf rdf:nodeID="N4ddf3a5732d24f5aad84dfdc35fe33ab"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Female">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Person"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#SoundRecordist">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>Sound recordists work intimately, fitting personal mics and
+monitoring the sound output on all on-screen talent and
+contributors</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Sleepers">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sleepers</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N3eb3567c2b1a4f19b0b01ac3fe6b8929">
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#VFXDesigner"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#season_2">
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Homecoming"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vendetta"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Collateral_Damage"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Eagle"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Angel_of_Death"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Martyrs"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Weapon"/>
+    <consistsOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#The_Final_Act"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Martyrs">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Martyrs</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Composer">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>Person who writes the score,
+which is the sum of all the
+original music going into a
+film.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Manoj_Bajpayee">
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</personid>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Male"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manoj Bajpayee</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nef56cd9d9d90492fb66742d9121eeffa">
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#SoundDesigner"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Television">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>Television is a telecommunication medium used
+for transmitting moving images</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9a87613b3a724a1d8e4f69779409c960">
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#HOD"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Mellow_D">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Singer"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mellow D</rdfs:label>
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</personid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#VFXDesigner">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>Person who design the visual
+effects</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actress">
+    <owl:equivalentClass rdf:nodeID="Nd76e7f9a90374f78a7644532a1113f5c"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:equivalentClass rdf:nodeID="Nacd70627395e41879eb6b791c99b9ced"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#decorates">
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#SetDesigner"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Set"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Person"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Kiske_Liye_Tu_Marega">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kiske Liye Tu Marega</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7d94b70ffb644c2cada91c4d0a0c141a">
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Female"/>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6d7dcad03e894a4a9ea99848c9fc0265">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Creators"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Banjara">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Banjara</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nfc61f2b905ba4dd88a4d5a29d59041f5">
+    <rdf:rest rdf:nodeID="N94144e16a3e34e3a97a88bcb397b2362"/>
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dega_Jaan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dega Jaan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Priyamani">
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Female"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Priyamani</rdfs:label>
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</personid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#capturesVisual">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cameraman"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Script"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Season">
+    <rdfs:comment>A collection of episodes aired within a certain time frame that
+comprise a segment of the show's overall run.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N970de4415fef4638a67c4b5c2e6c61c4">
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dancer"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7a5475b39f754bf583e7fc5feec83c83">
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb0621ab7d5f147a88da9ac342e99c82a">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#ScriptSupervisor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Writer">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne88c04b917f2486a82b04478faaedcd9">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Editor"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Choreographer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>a person who composes the sequence of steps and moves for a performance of dance.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N44389365ff7a4a98804235e76821dd70">
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#MusicDirector"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#SoundDesigner">
+    <rdfs:comment>Creates sound tracks for a variety of needs</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Makeup">
+    <rdfs:comment>Makeup helps even out skin
+tones for the camera and adds
+realism.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Setdresser">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>Person who decorates set</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nacd70627395e41879eb6b791c99b9ced">
+    <owl:intersectionOf rdf:nodeID="N7caf00d70c1f49ddb2d0ae70a285150c"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Person">
+    <owl:disjointUnionOf rdf:nodeID="N4d03437679144b1888b762a6672017ed"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8ca0d669257e434d83c8ae4983dd6c13">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actress"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf4cecb4dccaa4de0a32f9c98c9a96c31">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:unionOf rdf:nodeID="N7a87c543af664ec2896d9fbd7fed50e4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#learns">
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dance"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:nodeID="N28babe06fcd244338111539d1780b57f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#DebutantActress">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actress"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8dd02af8d27944c99b4e7927c6b3059c">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Setdresser"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#MusicEditor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdfs:comment>Person who intensify the
+emotional impact of a film by
+creating the soundtrack</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Script">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>It's a structure of whole
+TVseries, with complete plots,
+characters and tone of the
+TVseries</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#LocationShooting">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Location"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#HOD">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>Head of the depertment</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Budget">
+    <rdfs:comment>determines how much money will
+be spent on the entire film</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Clothes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>Clothing elements worn by
+actors in film</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nde8afbc452564cf184d53f26c94d5e13">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#MakeupArtist"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#writes">
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Script"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#ScriptWriter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#DebutantActor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nedaa4d5a7acc4b72ac3ac948e2bc2f44">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Swetesh_Ambade">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Swetesh Ambade</rdfs:label>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#CostumeDesigner"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</personid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Song">
+    <rdfs:comment>List of songs</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Awards">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>The film award is a cinematic
+award. it can be awarded in
+several categories</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#SetDesigner">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdfs:comment>Person who decorates set</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#The_Bomb">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Bomb</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#sings">
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Song"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Singer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Netflix">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#StreamingMediaServices"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne61ba46d94ea4be09a44be6cdccff4c2">
+    <owl:complementOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actress"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Pariah">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pariah</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd3d0cd0654484ade8b7268c21d951916">
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#SetDesigner"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0ed15a951d2b4cfabce819503dc01ac7">
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dancer"/>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N26b2fd8000c1412d82787a077c1b2fe2">
+    <rdf:rest rdf:nodeID="N7d94b70ffb644c2cada91c4d0a0c141a"/>
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Homecoming">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Homecoming</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na34ab2f57251439297259f9e05dd57b9">
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actor"/>
+    <rdf:rest rdf:nodeID="N8ca0d669257e434d83c8ae4983dd6c13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Fighting_Dirty">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fighting Dirty</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4d03437679144b1888b762a6672017ed">
+    <rdf:rest rdf:nodeID="N85ac7ab3b0f94ea5a0be719cd2048a7d"/>
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Female"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Singer">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>Person who sings a song</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9a789790bbea4da4bf8af3f4ff7416a4">
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#CameraCrew"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf1ea5299e25e44fc96e16a45582cc164">
+    <owl:unionOf rdf:nodeID="N099e3c6ae9964a02a4d4d763adc219e4"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N86fe2db0dde341f7874022ced02bfc28">
+    <rdf:rest rdf:nodeID="N577bf8a36c5349f9a8b0b06a19a1bdb8"/>
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N85ac7ab3b0f94ea5a0be719cd2048a7d">
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Male"/>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#The_Final_Act">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Final Act</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4528a643b2664eeb9451547aa9957e9f">
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <rdf:rest rdf:nodeID="Nc6962525e2ae44fca70c01bbd4d3247d"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Anti-National">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anti-National</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#ScriptSupervisor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>Person who is a member of a
+film crew who oversees the
+continuity of the motion
+picture including wardrobe,
+props, set dressing, hair,
+makeup and the actions of the
+actors during a scene.</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncb085760ac6746e69bf4e0decd7fe800">
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0d869337ff48448b861968dfc2b8c980">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#acts">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#TVseries"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#AssociateProducer">
+    <rdfs:comment>An Associate Producer works on the set of a film,
+television, theater or other production to assist the
+Producer in completing tasks</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#BackgroundDancer">
+    <rdfs:comment>Person who performs on a son</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dancer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#ScriptWriter">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Writer"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>write and develop
+screenplays for film</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Krish_Khatri">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krish Khatri</rdfs:label>
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</personid>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#CostumeDesigner"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd76e7f9a90374f78a7644532a1113f5c">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:intersectionOf rdf:nodeID="N26b2fd8000c1412d82787a077c1b2fe2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#CostumeDesigner">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>Person who is in charge of
+designing the clothing elements
+worn by actors in a film</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Collateral_Damage">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Collateral Damage</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cinematographer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdfs:comment>A cinematographer or director of photography (sometimes
+shortened to DP or DOP) is the person responsible for the
+photographing or recording of a film, television
+production, music video or other live action piece.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Episode">
+    <rdfs:comment>An episode of a series that is distributed as part of a
+TVseries or on streaming</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#performs">
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Song"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N099e3c6ae9964a02a4d4d763adc219e4">
+    <rdf:rest rdf:nodeID="N82b6928fe35040cb87615dfb2690026a"/>
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#StreamingMediaServices"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#consistsOf">
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Episode"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Season"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actor">
+    <owl:disjointWith rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actress"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <owl:equivalentClass rdf:nodeID="Na7b92dc3af5542e3b6b7d8bdf293dd1a"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:equivalentClass rdf:nodeID="N87a1aabef48b40da9d54d94b925b918e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Suveera_Ambade">
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#CostumeDesigner"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Suveera Ambade</rdfs:label>
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</personid>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#teaches">
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dance"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Choreographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N87a1aabef48b40da9d54d94b925b918e">
+    <owl:intersectionOf rdf:nodeID="N4528a643b2664eeb9451547aa9957e9f"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dance_of_Death">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dance of Death</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Patriots">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Patriots</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N80aed4eeef744c4bbe30f1731b265d1a">
+    <rdf:rest rdf:nodeID="N78313cc60ab4450ba87fd3ebf2291dd3"/>
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#manipulates">
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Camera"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#CameraCrew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na19a08e3762b42e8919450a69ea38480">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Singer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Action">
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Genere"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Male">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Person"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Vendetta">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vendetta</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7caf00d70c1f49ddb2d0ae70a285150c">
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <rdf:rest rdf:nodeID="Na3854522f25047aea60516da0047f17f"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N94144e16a3e34e3a97a88bcb397b2362">
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actress"/>
+    <rdf:rest rdf:nodeID="N0ed15a951d2b4cfabce819503dc01ac7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#wears">
+    <rdfs:domain rdf:nodeID="N98b17100ecb64798ad9c9d672259b7ba"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Clothes"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Person"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Ved_Jamsandekar">
+    <sings rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Banjara"/>
+    <personid rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</personid>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ved Jamsandekar</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Singer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#finalize">
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Script"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N4ddf3a5732d24f5aad84dfdc35fe33ab">
+    <rdf:rest rdf:nodeID="N0d869337ff48448b861968dfc2b8c980"/>
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Director"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc6962525e2ae44fca70c01bbd4d3247d">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:nodeID="Ne61ba46d94ea4be09a44be6cdccff4c2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#MusicDirector">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>A music(al) director is the person responsible for the
+musical aspects of a performance, production, or
+organization.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#airedIn">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#TelevisionShow"/>
+    <rdfs:range rdf:nodeID="Nf1ea5299e25e44fc96e16a45582cc164"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#personid">
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Person"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:comment>Every person has unique id associated</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#LeadActor">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dancer">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>Script
+A dance performance</rdfs:comment>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0472f79fcacf444187a342e3ee2ac5cf">
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#ProductionManager"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hasNominated">
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Awards"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cameraman">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#CameraCrew"/>
+    <rdfs:comment>part of camera crew</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#MakeupArtist">
+    <rdfs:comment>Person who devise and apply the
+theatrical makeup</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Paradise">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paradise</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ncf9a41ae87b04fb78e0c71e2efdb09bc">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:unionOf rdf:nodeID="Na34ab2f57251439297259f9e05dd57b9"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nd8e7630f60234c64af2a57147e43b5ef">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#SoundRecordist"/>
+    <owl:onProperty rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#composes">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Song"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Composer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Act_of_War">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Act of War</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#TVseries">
+    <rdfs:comment>TV series is any content produced for viewing on
+a television or internet</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N8eb148f312234758840dec7119910420">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na7b92dc3af5542e3b6b7d8bdf293dd1a">
+    <owl:intersectionOf rdf:nodeID="N86fe2db0dde341f7874022ced02bfc28"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#TelevisionShow">
+    <rdfs:comment>A television show is any content produced for viewing on
+a television set which can be broadcast
+via over-the-air, satellite, or cable, excluding breaking
+news, advertisements, or trailers that are typically placed
+between shows.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N577bf8a36c5349f9a8b0b06a19a1bdb8">
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Male"/>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf5a5c383ef1941d4b90283f078893d85">
+    <owl:complementOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actor"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N78313cc60ab4450ba87fd3ebf2291dd3">
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#ProductionManager">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>A Production Manager is a professional who oversees the
+production process and coordinates all activities to ensure
+enough resources on hand</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Comedy">
+    <rdf:type rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Genere"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hasWon">
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Awards"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na3854522f25047aea60516da0047f17f">
+    <rdf:first rdf:nodeID="Nf5a5c383ef1941d4b90283f078893d85"/>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Creators">
+    <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Crew"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>the program creator is the person who pitches a new TV
+show idea and sees it through.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hasActed">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:nodeID="Ncf9a41ae87b04fb78e0c71e2efdb09bc"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#TelevisionShow"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N82b6928fe35040cb87615dfb2690026a">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Television"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Weapon">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weapon</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Dance">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>A dance performanc</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N7a87c543af664ec2896d9fbd7fed50e4">
+    <rdf:first rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+    <rdf:rest rdf:nodeID="N8eb148f312234758840dec7119910420"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Angel_of_Death">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Angel of Death</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#directs">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+    <rdfs:domain rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Director"/>
+    <rdfs:range rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Cast"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N98b17100ecb64798ad9c9d672259b7ba">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <owl:unionOf rdf:nodeID="N80aed4eeef744c4bbe30f1731b265d1a"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#StreamingMediaServices">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:comment>Media service that provides streaming over the interne</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>

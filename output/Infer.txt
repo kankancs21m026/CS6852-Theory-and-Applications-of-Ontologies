@@ -1,0 +1,764 @@
+Subject: N00211c73dc114c419fca843d4771ff36
+Predicate: http://www.w3.org/2002/07/owl#intersectionOf
+Object: http://www.w3.org/2002/07/owl#intersectionOf
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: Ne9e3d63d295a46bcb2ddd8ba559f0b64
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: Ne1233c5f7b6545aebc33600c8c7914c6
+Predicate: http://www.w3.org/2002/07/owl#unionOf
+Object: http://www.w3.org/2002/07/owl#unionOf
+---------------------------------------------------------------------------------------------
+Subject: Na86d21a0b41d4fff90f257f3a652ed09
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: Nd06a9051a8ab41cc93433054664d858c
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: N7b5fffbff24c4a4ea43a949ac83c22c1
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N05180c8511c94fd1a4b5c055fcc4c993
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: N9f589cd402654350a355356955a86552
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N93872535adff494589a35d3460854e6e
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N2c9f8be7bf3f4e2b806479e446474d64
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: N568e5d5635d3479ea55ed988952a721d
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N7680cd9ea7f9480d8b54dabaface278a
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N3e95517a4d9349b9a653a089f42bd108
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: N05180c8511c94fd1a4b5c055fcc4c993
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N9934ad31911049faacd51f657ecd794e
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: Nf0a2b803950543479fad3b5364cbdb1e
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N7680cd9ea7f9480d8b54dabaface278a
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N2188dd61da7d48cebbf4834fa66ae073
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N3a8c6754513f4a3781f7c9f8d268c0f4
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N71ef31a89b0c49669246ebafbab90674
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: Nb544556fd98f4daaae65acdbbd38e4fd
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: Nf141585b90214b8c96912fa7c7f9ab27
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: Nd06a9051a8ab41cc93433054664d858c
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires
+Predicate: http://www.w3.org/2000/01/rdf-schema#domain
+Object: http://www.w3.org/2000/01/rdf-schema#domain
+---------------------------------------------------------------------------------------------
+Subject: Nf0a2b803950543479fad3b5364cbdb1e
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N95ff41721abe447995366dbc0d3346a9
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: N00587bcc94214599b9831e28896ec561
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: Nd0f70eae727f413a90e14fbce5ac195b
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: Na025e3f320184332938b0af8194b732a
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: N4a64ec2e6f614926bfd4549c5e4fa5d5
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N4f89b5fb9e60439eba71d45ae0537433
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: Nc2604b3c36ba49579502a37c12d21189
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: N64b5c0eeb34843c28ad67a696f32815e
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N68420b59360141609af2afa0c6827596
+Predicate: http://www.w3.org/2002/07/owl#unionOf
+Object: http://www.w3.org/2002/07/owl#unionOf
+---------------------------------------------------------------------------------------------
+Subject: N879ac71f454949c68b4c865fe6b36f83
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N261b0f8ecea341ed8bec1a76b501e07d
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: Nf6bdefdca9794bdaab8f6f8deb0de271
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N085c63b0c13d4b3dac507b330f1c06a9
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N8801bd2fd9f540edb3ff4ce5321bbb26
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N4f89b5fb9e60439eba71d45ae0537433
+Predicate: http://www.w3.org/2002/07/owl#unionOf
+Object: http://www.w3.org/2002/07/owl#unionOf
+---------------------------------------------------------------------------------------------
+Subject: Nf6bdefdca9794bdaab8f6f8deb0de271
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: Nc0d6fe22931f45f5b31d22ffc7776f5b
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N3f919d9525484715abd9c0eb3394f688
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N085c63b0c13d4b3dac507b330f1c06a9
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: Nc477be176b324eef93c8be20c2b5195a
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: Ne4163cb7cdf749fd951dfb6d5632d968
+Predicate: http://www.w3.org/2002/07/owl#intersectionOf
+Object: http://www.w3.org/2002/07/owl#intersectionOf
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N7b5fffbff24c4a4ea43a949ac83c22c1
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: Nd6cc52c8e83845cca0d57532a1188dae
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N30107e2ea537459eaae55e7fc26f2517
+Predicate: http://www.w3.org/2002/07/owl#intersectionOf
+Object: http://www.w3.org/2002/07/owl#intersectionOf
+---------------------------------------------------------------------------------------------
+Subject: N9934ad31911049faacd51f657ecd794e
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: Ne1233c5f7b6545aebc33600c8c7914c6
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hires
+Predicate: http://www.w3.org/2000/01/rdf-schema#range
+Object: http://www.w3.org/2000/01/rdf-schema#range
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: Ne9e3d63d295a46bcb2ddd8ba559f0b64
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N71ef31a89b0c49669246ebafbab90674
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Person
+Predicate: http://www.w3.org/2002/07/owl#disjointUnionOf
+Object: http://www.w3.org/2002/07/owl#disjointUnionOf
+---------------------------------------------------------------------------------------------
+Subject: N30107e2ea537459eaae55e7fc26f2517
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N3a8c6754513f4a3781f7c9f8d268c0f4
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N8a02eb9d4eed4012bcfdbbe53d4f7f9e
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: Nb544556fd98f4daaae65acdbbd38e4fd
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N7680cd9ea7f9480d8b54dabaface278a
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N261b0f8ecea341ed8bec1a76b501e07d
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: Ndc7f15c396f74e23bb15f346a24818a7
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N51855079992a48b188e33185f2baf304
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N97de82c0f04043a78f3468bfdd4a25da
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N00587bcc94214599b9831e28896ec561
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: Nd8e375ed640d4c90994edcc9128e8890
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N6ffaa0a2538f43b0ab1ccd01eaa52132
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: Nb2f57d6d99d14106a5520c700051d33c
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N43dc456f9cca4327b3ec35b526dccd85
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N43dc456f9cca4327b3ec35b526dccd85
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N37ef12114b924bf8a2ac7a852d40d9b2
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N8a02eb9d4eed4012bcfdbbe53d4f7f9e
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: Ndc7f15c396f74e23bb15f346a24818a7
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: Nf141585b90214b8c96912fa7c7f9ab27
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: Nbe9593851473486ab47d744b5d87d806
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: Nc0d6fe22931f45f5b31d22ffc7776f5b
+Predicate: http://www.w3.org/2002/07/owl#intersectionOf
+Object: http://www.w3.org/2002/07/owl#intersectionOf
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#wears
+Predicate: http://www.w3.org/2000/01/rdf-schema#domain
+Object: http://www.w3.org/2000/01/rdf-schema#domain
+---------------------------------------------------------------------------------------------
+Subject: N879ac71f454949c68b4c865fe6b36f83
+Predicate: http://www.w3.org/2002/07/owl#unionOf
+Object: http://www.w3.org/2002/07/owl#unionOf
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: Nf6bdefdca9794bdaab8f6f8deb0de271
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: Nac7969f97d2749d5a3665f3acd807486
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N3ddd40142799483ab9b4870a35365ea8
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N7ad472f005b643539ee31bba2d311dc5
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N3ddd40142799483ab9b4870a35365ea8
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: Ne9e3d63d295a46bcb2ddd8ba559f0b64
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: Nbe9593851473486ab47d744b5d87d806
+Predicate: http://www.w3.org/2002/07/owl#complementOf
+Object: http://www.w3.org/2002/07/owl#complementOf
+---------------------------------------------------------------------------------------------
+Subject: Nac7969f97d2749d5a3665f3acd807486
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N37ef12114b924bf8a2ac7a852d40d9b2
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N3f919d9525484715abd9c0eb3394f688
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N3ddd40142799483ab9b4870a35365ea8
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N6eacc917b5ec4ae8880a9b36d4d00e25
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N6eacc917b5ec4ae8880a9b36d4d00e25
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: Na8d3fdd8b0e44751856422d11cdbe42b
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N7ad472f005b643539ee31bba2d311dc5
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: N6ffaa0a2538f43b0ab1ccd01eaa52132
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N8801bd2fd9f540edb3ff4ce5321bbb26
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N3e95517a4d9349b9a653a089f42bd108
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N64b5c0eeb34843c28ad67a696f32815e
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N07c08af4c51542efbb36b7dd6fcda349
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N9934ad31911049faacd51f657ecd794e
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: Nd6cc52c8e83845cca0d57532a1188dae
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: Nd0f70eae727f413a90e14fbce5ac195b
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: Ndc7f15c396f74e23bb15f346a24818a7
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N97de82c0f04043a78f3468bfdd4a25da
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: Ne4163cb7cdf749fd951dfb6d5632d968
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N00211c73dc114c419fca843d4771ff36
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actress
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N49bb58595d064166bc621c3f1507e7a2
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N00587bcc94214599b9831e28896ec561
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N1bb9878908764a2e90d2616e512e657f
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: N2188dd61da7d48cebbf4834fa66ae073
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N7b5fffbff24c4a4ea43a949ac83c22c1
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N085c63b0c13d4b3dac507b330f1c06a9
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N43dc456f9cca4327b3ec35b526dccd85
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N49bb58595d064166bc621c3f1507e7a2
+Predicate: http://www.w3.org/2002/07/owl#unionOf
+Object: http://www.w3.org/2002/07/owl#unionOf
+---------------------------------------------------------------------------------------------
+Subject: N3ea48be8f034444abe3aee034e95df27
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: Nc477be176b324eef93c8be20c2b5195a
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: Na8d3fdd8b0e44751856422d11cdbe42b
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#learns
+Predicate: http://www.w3.org/2000/01/rdf-schema#domain
+Object: http://www.w3.org/2000/01/rdf-schema#domain
+---------------------------------------------------------------------------------------------
+Subject: Nc2604b3c36ba49579502a37c12d21189
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#airedIn
+Predicate: http://www.w3.org/2000/01/rdf-schema#range
+Object: http://www.w3.org/2000/01/rdf-schema#range
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N68420b59360141609af2afa0c6827596
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N3a8c6754513f4a3781f7c9f8d268c0f4
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: Na86d21a0b41d4fff90f257f3a652ed09
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actor
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N97de82c0f04043a78f3468bfdd4a25da
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: Ne184a2f0cc2a48e683ad5467e56b7dd0
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N2c9f8be7bf3f4e2b806479e446474d64
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: Nc477be176b324eef93c8be20c2b5195a
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N80efb94b3cb24aa5a22c50a345a28e0c
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: N6eacc917b5ec4ae8880a9b36d4d00e25
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N93872535adff494589a35d3460854e6e
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N71ef31a89b0c49669246ebafbab90674
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: Nd0f70eae727f413a90e14fbce5ac195b
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N64b5c0eeb34843c28ad67a696f32815e
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actress
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N51855079992a48b188e33185f2baf304
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: N4a64ec2e6f614926bfd4549c5e4fa5d5
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Actor
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: Nd8e375ed640d4c90994edcc9128e8890
+Predicate: http://www.w3.org/2002/07/owl#unionOf
+Object: http://www.w3.org/2002/07/owl#unionOf
+---------------------------------------------------------------------------------------------
+Subject: Nf0a2b803950543479fad3b5364cbdb1e
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N49b05b28efcc42788de480e99612de6e
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: Na025e3f320184332938b0af8194b732a
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N93872535adff494589a35d3460854e6e
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#hasActed
+Predicate: http://www.w3.org/2000/01/rdf-schema#domain
+Object: http://www.w3.org/2000/01/rdf-schema#domain
+---------------------------------------------------------------------------------------------
+Subject: N95ff41721abe447995366dbc0d3346a9
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: Nb2f57d6d99d14106a5520c700051d33c
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N3f919d9525484715abd9c0eb3394f688
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N07c08af4c51542efbb36b7dd6fcda349
+Predicate: http://www.w3.org/2002/07/owl#complementOf
+Object: http://www.w3.org/2002/07/owl#complementOf
+---------------------------------------------------------------------------------------------
+Subject: Nb2f57d6d99d14106a5520c700051d33c
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: N37ef12114b924bf8a2ac7a852d40d9b2
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N261b0f8ecea341ed8bec1a76b501e07d
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: Ne184a2f0cc2a48e683ad5467e56b7dd0
+Predicate: http://www.w3.org/2002/07/owl#someValuesFrom
+Object: http://www.w3.org/2002/07/owl#someValuesFrom
+---------------------------------------------------------------------------------------------
+Subject: N2188dd61da7d48cebbf4834fa66ae073
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N568e5d5635d3479ea55ed988952a721d
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: N3ea48be8f034444abe3aee034e95df27
+Predicate: http://www.w3.org/2002/07/owl#onProperty
+Object: http://www.w3.org/2002/07/owl#onProperty
+---------------------------------------------------------------------------------------------
+Subject: N1bb9878908764a2e90d2616e512e657f
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N80efb94b3cb24aa5a22c50a345a28e0c
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#first
+---------------------------------------------------------------------------------------------
+Subject: N49b05b28efcc42788de480e99612de6e
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: N3ea48be8f034444abe3aee034e95df27
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: Nac7969f97d2749d5a3665f3acd807486
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries
+Predicate: http://www.w3.org/2002/07/owl#imports
+Object: http://www.w3.org/2002/07/owl#imports
+---------------------------------------------------------------------------------------------
+Subject: N9f589cd402654350a355356955a86552
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#rest
+---------------------------------------------------------------------------------------------
+Subject: http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries#Producer
+Predicate: http://www.w3.org/2002/07/owl#equivalentClass
+Object: http://www.w3.org/2002/07/owl#equivalentClass
+---------------------------------------------------------------------------------------------
+Subject: Ne184a2f0cc2a48e683ad5467e56b7dd0
+Predicate: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+Object: http://www.w3.org/1999/02/22-rdf-syntax-ns#type
+---------------------------------------------------------------------------------------------

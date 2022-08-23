@@ -1,0 +1,290 @@
+<?xml version="1.0"?>
+<!DOCTYPE tvseries SYSTEM "file:/C:/Users/cseka/Downloads/file/onto.dtd">
+
+<tvseries seriesid="123456" >
+    <info>
+        <titles>
+            <title country="India">The Family Man</title>
+            <title country="USA">The Family Man</title>
+            <title country="Brazil">Homem de Família</title>
+        </titles> 
+        <story-line>The Family Man is an edgy action-drama series, which tells the story of a mpersonIddle-class man who works for a special cell of the National Investigation Agency. While he tries to protect the nation from terrorists, he also has to protect his family from the impact of his secretive, high-pressure, and low paying job.
+        </story-line>
+        <release-dates>
+            <date country="Brazil">19 September 2019	</date>
+            <date country="USA">19 September 2019	</date>
+            <date country="India">20 September 2019	</date>
+        </release-dates>
+        <genres>
+            <type>Action</type>
+            <type>Comedy</type>
+            <type>Drama</type>
+        </genres>
+        <streamingmedia>Amazon Prime</streamingmedia>
+        <production>D2R Films</production>
+        <Certificate>18+</Certificate>
+        <shooting-location>
+            <location>Ballard Estate</location>
+            <location>Chennai</location>
+            <location>Delhi</location>
+        </shooting-location>
+        
+        
+        <rating>
+            <item by="imdb">8.5/10</item>
+            <item by="gadgets360">3.5/5</item>      
+        </rating>
+        
+        <seasons>
+            <season>
+                <number>1</number>
+                <relese>19 September 2019</relese>   
+                <about>Srikant Tiwari (Manoj Bajpayee) is an intelligence officer working in National Investigation Agency’s fictitious cell, Threat Analysis and Surveillance Cell (TASC), which specialises in predicting terrorist attacks. While Tiwari is a senior analyst with laudable work history, he has to disguise himself as a regular employee stuck in a dead-end government job.
+                </about> 
+                <episodes>
+                    <total>10</total>
+                    
+                    <episode><duration>49:00</duration><number>1</number><title>The Family Man</title></episode>
+                    <episode> <duration>49:00</duration><number>2</number> <title>Sleepers</title></episode>
+                    <episode> <duration>49:00</duration><number>3</number><title>Anti-National</title></episode>
+                    <episode><duration>49:00</duration><number>4</number><title>Patriots</title></episode>
+                    <episode><duration>49:00</duration><number>5</number><title>Pariah</title></episode>
+                    <episode><duration>49:00</duration><number>6</number><title>Dance of Death</title></episode>        
+                    <episode><duration>49:00</duration><number>7</number><title>Paradise</title></episode>
+                    <episode><duration>49:00</duration><number>8</number><title>Act of War</title></episode>
+                    <episode><duration>49:00</duration><number>9</number><title>Fighting Dirty</title></episode>     
+                    <episode><duration>49:00</duration><number>10</number><title>The Bomb</title></episode>             
+                </episodes>        
+            </season>
+            <season>
+                <number>2</number>
+                
+                <relese>4 June 2021</relese> 
+                <about>Srikant Tiwari (Manoj Bajpayee) quits T.A.S.C. and joins a regular 9-5 job in an I.T. company. DevopersonId of the juicy adventures that defined his routine earlier, Tiwari is engulfed in boredom and underlying frustration. As he gets to know about an attack being planned by the Sri Lankan Tamils,it doesn’t take him long to quit his current soul-sucking job and swing back to the agency. However, the danger this time is greater and closer to home.
+                </about>
+                <episodes>
+                    <total>9</total>
+                    <episode> <duration>49:00</duration><number>1</number><title>Exile</title></episode>
+                    <episode> <duration>49:00</duration><number>2</number><title>Weapon</title></episode>
+                    <episode> <duration>49:00</duration><number>3</number><title>Angel of Death</title></episode>        
+                    <episode> <duration>49:00</duration><number>4</number><title>Eagle</title></episode>
+                    <episode>  <duration>49:00</duration><number>5</number><title>Homecoming</title></episode>
+                    <episode> <duration>49:00</duration><number>6</number><title>Martyrs</title></episode>
+                    <episode> <duration>49:00</duration><number>7</number><title>Collateral Damage</title></episode>
+                    <episode> <duration>49:00</duration><number>8</number><title>Vendetta</title></episode>
+                    <episode> <duration>49:00</duration><number>9</number><title>The Final Act</title></episode>                           
+                </episodes>         
+            </season>   
+        </seasons>
+        
+        <movie-characters>
+            <character playedBy="2"><name>JK Talpade</name></character>
+            <character  playedBy="0" leadrole="true"><name>Srikant Tiwari</name></character>
+            <character playedBy="100" debutant="true" > <name>Ajit</name></character>
+            <character playedBy="4"><name>Atharv</name></character>
+            <character playedBy="1" leadrole="true"><name>Suchitra Tiwari</name></character>
+            <character playedBy="3" ><name>Dhriti</name></character>
+        </movie-characters>
+        <songs>
+            <song songid='0'><title>Kiske Liye Tu Marega</title>
+                <singers>
+                    <singerid>12</singerid>
+                    <singerid>13</singerid>
+                    
+                </singers>
+                <duration>3:09</duration>
+            </song>
+            <song songid='2'><title>Banjara</title>        
+                <singers >
+                    <singerid>14</singerid>
+                </singers>
+                <duration>5:00</duration>
+            </song>
+            <song songid='3'><title>Dega Jaan</title>   
+                <singers >
+                    <singerid>12</singerid>
+                    <singerid>13</singerid>
+                </singers>
+                <duration>4:00</duration>
+            </song>
+        </songs>    
+        
+    </info>
+    
+    <cast>
+        
+        <actor roleid="25" >
+            <person personId="0" hiredby="11">
+                
+                <name >Manoj Bajpayee</name>
+            </person>
+            
+            <person personId="2" hiredby="11">  
+                <name>Sharib Hashmi</name>
+            </person>
+            
+            <person personId="100" debutant="true" hiredby="10">
+                <name>Vijay Vikram Singh</name>
+            </person>
+            <person personId="4" hiredby="10">
+                <name>Vedant Sinha</name>
+            </person>
+        </actor>
+        
+        
+        <actress roleid="26">
+            <person personId="1" hiredby="10" >
+                <name >Priyamani</name> 
+            </person>  
+            
+            <person personId="3" hiredby="10">   
+                <name>Ashlesha Thakur</name>
+            </person>
+            
+        </actress>
+        
+        
+        
+        
+    </cast>
+    
+    <crew>
+        
+        <director roleid="0">
+            <person personId="10"  >
+                <name>Raj NpersonIdimoru </name>
+            </person>
+            <person personId="11"  >
+                <name>Krishna D.K </name>
+            </person>
+        </director>
+        
+        <music-director roleid="3">
+            <person personId="16" hiredby="11">	
+                <name>Ketan Sodha </name>
+            </person>
+            <person personId="17" hiredby="11">
+                <name>Sachin Sanghvi </name>
+            </person>
+        </music-director>
+        
+        <constume-designer roleid="4">
+            <person personId="19" hiredby="10">
+                <name>Krish Khatri</name> 
+            </person> 
+            <person personId="20" hiredby="10">
+                <name>Suveera Ambade</name>     
+            </person> 
+            <person personId="21" hiredby="11">
+                <name>Swetesh Ambade</name>
+            </person>
+        </constume-designer>
+        
+        <set-designer roleid="5" >
+            <person personId="23" hiredby="10">
+                <name>Yasmin Sethi</name>   
+            </person>
+            
+            <person personId="24" hiredby="10">
+                <name>Monica Balsara </name>
+            </person>
+        </set-designer >
+        
+        <singer roleid="100">
+            <person personId="12" hiredby="10">
+                <name >Shreya Ghoshal</name>
+            </person>
+            <person personId="13" hiredby="11">
+                <name >Mellow D</name>
+            </person>
+            <person personId="14" hiredby="10">
+                <name >Ved Jamsandekar</name>
+            </person>                      
+        </singer>
+        
+        <sound-designer roleid="6">
+            <person personId="240" hiredby="11">
+                <name>Anuroop Kukreja
+                </name>        
+            </person>
+            
+            <person personId="24" hiredby="11">
+                <name>Brendan Golden</name> 
+            </person>
+        </sound-designer >
+        
+        <makeup-artist roleid="7" > 
+            <person personId="205"  hiredby="10">
+                <name>Latta Pathak</name> 
+            </person>
+            
+            <person personId="25" hiredby="10">
+                <name>SajpersonId Khan</name>
+            </person>
+        </makeup-artist>
+        
+        <production-manager roleid="8"> 
+            <person personId="26" hiredby="10">
+                <name>Naseer Khan</name>        
+            </person>
+            <person personId="27" hiredby="10">
+                <name>Nasir Ahmed Khan</name>
+            </person>
+        </production-manager>
+        
+        <cinematographer roleid="9"> 
+            <person personId="28" hiredby="10">
+                <name>Nigam Bomzan</name>    
+            </person>
+        </cinematographer>
+        
+        
+        <composer roleid="11"> 
+            <person personId="30" hiredby="10">
+                <name>Ketan Sodha</name>  
+            </person>
+        </composer>
+        
+        <associate-producer roleid="12"> 
+            <person personId="31" hiredby="10"><name>Anuradha Sharma</name>  
+            </person>
+        </associate-producer>
+        <location-manager roleid="13"> 
+            <person personId="32" hiredby="10">
+                <name>Sanju Balmeeki</name>
+            </person>
+        </location-manager>
+        
+        <script-editor roleid="14">
+            <person personId="33" hiredby="10">
+                <name>Ravi Shankar Muppa	</name>
+            </person>
+        </script-editor>
+        
+        <additional-dialogue roleid="15">
+            <person personId="34" hiredby="10">
+                <name>Sumit Arora</name>    
+            </person>
+        </additional-dialogue>
+    </crew>
+    
+    
+    <awards>
+        
+        <nominee>
+            <award nomineeid="0" name="Asian Academy Creative Award">
+                <catagory>Best Actor in a Leading Role</catagory>  
+            </award>
+            <award nomineeid="10" name="Asian Academy Creative Award">
+                <catagory>Best Direction (Fiction)</catagory>  
+            </award>
+            
+        </nominee>   
+        <winner> 
+            <award wonby="0" name="Dada Saheb Phalke Award">
+                <catagory>Best Actor - Web Series</catagory>  
+            </award>
+            
+        </winner>
+    </awards>
+</tvseries>

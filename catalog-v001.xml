@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1651416215217" name="http://www.semanticweb.org/cseka/ontologies/2022/3/tvseries" uri="TVSeries.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1651416215217" name="http://www.semanticweb.org/cseka/ontologies/2022/4/untitled-ontology-49" uri="infer.owl"/>
+    </group>
+</catalog>

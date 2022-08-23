@@ -1,0 +1,90 @@
+<!ELEMENT tvseries ( info , cast , crew , awards*)>
+<!ELEMENT info (titles , story-line , release-dates , genres, streamingmedia , production , Certificate , shooting-location* ,  rating?, seasons , movie-characters , songs*)>
+<!ELEMENT cast ( actor , actress)>
+<!ELEMENT crew (director ,writter*,creator?, music-director? ,constume-designer? , set-designer? , singer? , sound-designer? , makeup-artist? , production-manager? , cinematographer? , composer? , associate-producer? , location-manager? , script-editor? , additional-dialogue?)>
+<!ELEMENT awards ( nominee* , winner*)>
+<!ELEMENT song ( title , singers+ , duration )>
+<!ELEMENT titles ( title+)>
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title country CDATA #IMPLIED>
+<!ELEMENT episode ( duration ,number , title)>
+<!ELEMENT constume-designer ( person+)>
+<!ATTLIST constume-designer roleid CDATA #REQUIRED>
+<!ELEMENT rating (item+)>
+<!ELEMENT about (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT cinematographer (person+)>
+<!ATTLIST cinematographer roleid CDATA #REQUIRED>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT character ( name*)>
+<!ATTLIST character playedBy CDATA #REQUIRED>
+<!ATTLIST character leadrole CDATA #IMPLIED>
+<!ATTLIST character debutant CDATA #IMPLIED>
+<!ELEMENT location-manager (person+)>
+<!ATTLIST location-manager roleid CDATA #REQUIRED>
+<!ELEMENT writter (person+)>
+<!ATTLIST writter roleid CDATA #REQUIRED>
+<!ELEMENT season (number , relese , about , episodes+)>
+<!ELEMENT movie-characters (character+)>
+<!ELEMENT story-line (#PCDATA)>
+<!ELEMENT shooting-location (location+)>
+<!ELEMENT episodes (total , episode+)>
+<!ATTLIST song songid CDATA #REQUIRED>
+<!ELEMENT singers ( singerid+)>
+<!ELEMENT set-designer ( person+)>
+<!ATTLIST set-designer roleid CDATA #REQUIRED>
+<!ELEMENT actress (person+)>
+<!ATTLIST actress roleid CDATA #REQUIRED>
+<!ELEMENT item (#PCDATA)>
+<!ATTLIST item by CDATA #IMPLIED>
+<!ELEMENT seasons ( season+)>
+<!ELEMENT director ( person+)>
+<!ATTLIST director roleid CDATA #REQUIRED>
+<!ELEMENT script-editor ( person+)>
+<!ATTLIST script-editor roleid CDATA #REQUIRED>
+<!ELEMENT music-director ( person+)>
+<!ATTLIST music-director roleid CDATA #REQUIRED>
+<!ELEMENT catagory (#PCDATA)>
+<!ELEMENT singerid (#PCDATA)>
+<!ELEMENT winner ( award*)>
+<!ELEMENT person ( name)>
+<!ATTLIST person personId CDATA #REQUIRED>
+<!ATTLIST person hiredby CDATA #IMPLIED>
+<!ATTLIST person debutant CDATA #IMPLIED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT associate-producer (person+)>
+<!ATTLIST associate-producer roleid CDATA #REQUIRED>
+<!ELEMENT Certificate (#PCDATA)>
+<!ELEMENT additional-dialogue (person+)>
+<!ATTLIST additional-dialogue roleid CDATA #REQUIRED>
+<!ELEMENT singer (person+)>
+<!ATTLIST singer roleid CDATA #REQUIRED>
+<!ELEMENT production (#PCDATA)>
+<!ELEMENT production-manager (person+)>
+<!ATTLIST production-manager roleid CDATA #IMPLIED>
+<!ELEMENT streamingmedia (#PCDATA)>
+<!ATTLIST tvseries seriesid CDATA #IMPLIED>
+<!ELEMENT duration (#PCDATA)>
+<!ELEMENT total (#PCDATA)>
+<!ELEMENT award ( catagory)>
+<!ATTLIST award nomineeid CDATA #IMPLIED>
+<!ATTLIST award name CDATA #REQUIRED>
+<!ATTLIST award wonby CDATA #IMPLIED>
+<!ELEMENT genres (type+)>
+<!ELEMENT nominee (award+)>
+<!ELEMENT creator (person+)>
+<!ATTLIST creator roleid CDATA #REQUIRED>
+<!ELEMENT makeup-artist ( person+)>
+<!ATTLIST makeup-artist roleid CDATA #REQUIRED>
+<!ELEMENT composer ( person+)>
+<!ATTLIST composer roleid CDATA #REQUIRED>
+<!ELEMENT actor ( person+)>
+<!ATTLIST actor roleid CDATA #REQUIRED>
+<!ELEMENT relese (#PCDATA)>
+<!ELEMENT songs ( song+)>
+<!ELEMENT sound-designer ( person+)>
+<!ATTLIST sound-designer roleid CDATA #IMPLIED>
+<!ELEMENT release-dates ( date+)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date country CDATA #IMPLIED>
