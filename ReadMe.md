@@ -21,7 +21,7 @@ Place the following files in same directry
 
 - onto.xml
 
-- assignment4.py
+- main.py
 
 - TVSeries.owl
 
